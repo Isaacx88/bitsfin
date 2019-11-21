@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161609718573",
+    "firebase_url": "https://bitsfin2.firebaseio.com",
+    "project_id": "bitsfin2",
+    "storage_bucket": "bitsfin2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161609718573:android:d845c264fa7bf5c22a11a4",
+        "android_client_info": {
+          "package_name": "com.example.bitsfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161609718573-hpcniujkoc8q4fj7kn020e1a89nd5bh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsiZNFT3sHkDnyQ_f39pw7fQWOYIZByT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161609718573-hpcniujkoc8q4fj7kn020e1a89nd5bh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
